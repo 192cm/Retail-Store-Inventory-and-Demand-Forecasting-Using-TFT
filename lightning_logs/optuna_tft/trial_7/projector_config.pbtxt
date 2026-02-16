@@ -1,0 +1,55 @@
+embeddings {
+  tensor_name: "Store ID:01480"
+  metadata_path: "01480/Store ID\\metadata.tsv"
+  tensor_path: "01480/Store ID\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Product ID:01480"
+  metadata_path: "01480/Product ID\\metadata.tsv"
+  tensor_path: "01480/Product ID\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Category:01480"
+  metadata_path: "01480/Category\\metadata.tsv"
+  tensor_path: "01480/Category\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Region:01480"
+  metadata_path: "01480/Region\\metadata.tsv"
+  tensor_path: "01480/Region\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Seasonality:01480"
+  metadata_path: "01480/Seasonality\\metadata.tsv"
+  tensor_path: "01480/Seasonality\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "DayOfWeek:01480"
+  metadata_path: "01480/DayOfWeek\\metadata.tsv"
+  tensor_path: "01480/DayOfWeek\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "IsWeekend:01480"
+  metadata_path: "01480/IsWeekend\\metadata.tsv"
+  tensor_path: "01480/IsWeekend\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Price_Segment:01480"
+  metadata_path: "01480/Price_Segment\\metadata.tsv"
+  tensor_path: "01480/Price_Segment\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Promotion:01480"
+  metadata_path: "01480/Promotion\\metadata.tsv"
+  tensor_path: "01480/Promotion\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Weather Condition:01480"
+  metadata_path: "01480/Weather Condition\\metadata.tsv"
+  tensor_path: "01480/Weather Condition\\tensors.tsv"
+}
+embeddings {
+  tensor_name: "Epidemic:01480"
+  metadata_path: "01480/Epidemic\\metadata.tsv"
+  tensor_path: "01480/Epidemic\\tensors.tsv"
+}
